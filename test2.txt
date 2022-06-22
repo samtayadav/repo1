@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is BE94-59D0
+
+ Directory of C:\Users\SAMTA YADAV\Desktop\myproject
+
+22-06-2022  16:37    <DIR>          .
+22-06-2022  16:37    <DIR>          ..
+22-06-2022  16:37                 0 test2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  752,193,384,448 bytes free
